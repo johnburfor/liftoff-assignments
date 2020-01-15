@@ -15,4 +15,4 @@ C#, .Net, and Bootstrap
 ### What I'll Have to Learn
 I'll have to learn how to read and write to files for the recipe items and steps, since they are too large to efficiently store in the database.
 ### Project Tracker
-https://trello.com/b/v6ZH0Pe6/whats-for-dinner
+https://trello.com/invite/b/v6ZH0Pe6/1273e1a175b5e0f0159d8b2ed3ca74e2/whats-for-dinner
