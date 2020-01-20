@@ -8,12 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://github.com/johnburfor/liftoff-assignments/blob/master/Wireframe%201.jpeg
+https://github.com/johnburfor/liftoff-assignments/blob/master/Wireframe%202.jpeg
+https://github.com/johnburfor/liftoff-assignments/blob/master/Wireframe%203.jpeg
+https://github.com/johnburfor/liftoff-assignments/blob/master/Wireframe%204.jpeg
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/v6ZH0Pe6/1273e1a175b5e0f0159d8b2ed3ca74e2/whats-for-dinner
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/johnburfor/WhatsForDinner
